@@ -129,11 +129,11 @@ copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netli
 
 
 ################################### French language #####################################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
+[Languages.de]
+languageName = "De"
+languageCode = "de-de"
+contentDir = "content/german"
 weight = 2
-home = "Accueil"
+home = "Start"
 # copyright
 copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
