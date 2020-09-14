@@ -40,7 +40,7 @@ about:
   button:
     enable : true
     label : "DOWNLOAD MY CV"
-    link : "https://github.com/Gritzbach/Homepage/blob/master/public/LBS%20CV%20Michael%20Gritzbach%20Summer%202020%20Upload.pdf" # you can put your cv in static folder and give the path here.
+    link : "https://raw.githubusercontent.com/Gritzbach/Homepage/master/public/LBS%20CV%20Michael%20Gritzbach%20Summer%202020%20Upload.pdf" # you can put your cv in static folder and give the path here.
 
 ###########################3 Experience ##############################
 experience:
