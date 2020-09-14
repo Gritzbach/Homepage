@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://gritzbach.netlify.app"
+baseURL = "https://gritzbach-stop.netlify.app"
 title = "Michael Gritzbach's Website"
 theme = "somrat"
 # disable language
